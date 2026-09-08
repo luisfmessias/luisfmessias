@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ​🧑‍💻​ Full Stack Developer<br>👨‍🎓​ Análise e Desenvolvimento de Sistemas<br>
 
 
