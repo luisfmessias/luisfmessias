@@ -23,7 +23,6 @@
 - **Full Stack Developer** focused on building fast, clean and scalable applications
 - Studying **Systems Analysis and Development**
 - Building modern web apps with **Next.js** and mobile apps with **React Native** & **React**
-- Turning **Figma** designs into precise, responsive interfaces
 
 ---
 
